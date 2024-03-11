@@ -21,7 +21,7 @@ const App = () => {
       <Services />
       <WhereToBuy />
       <AppBanner />
-      <Footer />
+      <Footer /> 
     </main>
   );
 };
